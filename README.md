@@ -89,9 +89,3 @@ Projet réalisé dans le cadre du module Biométrie & Tatouage Numérique
 
 
 
-
-
-
-Projet réalisé dans le cadre du module Biométrie & Tatouage Numérique
-
-⭐ N'hésite pas à mettre une étoile si tu trouves ce projet utile !
