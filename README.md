@@ -46,6 +46,7 @@ Un système complet de contrôle d'accès par **reconnaissance faciale** avec :
 ---
 
 ## 📁 Structure du Projet
+
 AccessControl_Biometric_Watermark/
 ├── src/
 │   ├── main.py                 ← Application principale
